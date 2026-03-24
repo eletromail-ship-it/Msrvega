@@ -1,3 +1,234 @@
+# TIMELINE ORGANIZADA - EVENTOS MSR VEGA
+
+Criei um arquivo de timeline completo. Aqui está o resumo cronológico organizado:
+
+## **ESTRUTURA MACRO DA TIMELINE:**
+
+### **1987-2025: ERA DE FUNDAÇÃO**
+- **1987:** Marcelo (12 anos, órfão) cria primeiro protótipo do M-Force com sucata no Rocha, Rio de Janeiro
+- **1987-2025:** MSR Technology constrói infraestrutura, recrutando 2.052 mulheres de múltiplos universos
+- **Fundação:** Estabelecimento da sede do Rocha (prédio de 100 andares), Milvia Silva como CEO das operações terrestres
+
+### **2023-2024: CONSTRUÇÃO DA VEGA & PRIMEIROS RESGATES**
+- **2023.157:** Silvia Tilly resgatada da USS Discovery (4 minutos e 17 segundos antes da morte)
+- **2024.089:** Kathryn Janeway recrutada, primeira conexão íntima estabelecida
+- **2024.134:** Ana Lúcia entra na tripulação
+- **2024.176:** Seven of Nine entra na MSR, iniciando relacionamento
+
+### **2025: EVENTOS PRINCIPAIS DE INTEGRAÇÃO**
+- **2025.034-067:** Joan Cooper resgatada da realidade Delta-7, Enola Holmes recrutada
+- **2025.067-201:** Múltiplas oficiais integradas, T'Pol entra com incidentes de Pon Farr
+- **2025.201:** Pon Farr de T'Pol documentado - 6+ horas, 7 orgasmos
+- **2025.267:** Kate Bishop entra, estabelece Deck 7 como espaço exclusivo
+
+### **2026: MISSÕES CRÍTICAS - ERA PRESENTE**
+- **2026.078:** Juliana entra, ganha aposta com Marcelo, primeiro momento íntimo
+- **2026.081-082:** 
+  - **Dispensa das 2.000 guerreiras** com cerimônia de honra
+  - 872 escolhem Proxima B (Colônia Gabriela)
+  - 643 retornam aos mundos de origem
+  - 312 se tornam mercenárias "Filhas da Vega"
+  - 173 servem a outras causas
+  - Gabriela permanece como Chefe de Segurança
+
+- **2026.089+:** Operação de separação de Adira Tal (simbionte Dax separado em 8 corpos independentes)
+
+- **15-17 de março de 2026:** Evento Retorno de Kes
+  - Kes resgatada do plano de energia dimensional
+  - Corpo recriado usando tecnologia M-Vida
+  - Amanda (San-Ti) desenvolve atração, aprende sobre amor pela primeira vez
+  - San-Ti revelado como experimento Entropiano #4.739.281
+
+- **17-24 de março de 2026 (Sessão Atual):**
+  - Civilização Entropiana descoberta (800-900 milhões de anos)
+  - Um Entropiano extraído, interrogado, devolvido
+  - Integração de tecnologia: Vega expande de 11 para **26 dimensões**
+  - Interior da Vega expande para **2,5 milhões de anos-luz**
+  - Capacidades adquiridas: manipulação planetária, reescrita de memória celular, estase temporal
+  - Amanda pacificada, retorna a Proxima d para investigar origens verdadeiras
+  - **Kate Bishop relata aventuras aos Almirantes Picard, Kirk, Pike**
+
+- **23 de março de 2026:** Missão 10 (Resgate Família Robinson)
+  - Jupiter 2 capturado intacto
+  - Maureen Robinson aceita divisão médica
+  - Judy Robinson aceita divisão médica
+  - Penny Robinson designada comunicações (operadora Mfone Delta)
+  - Dra. June Harris (Smith) redimida, segunda chance concedida
+  - T'Pol designada treinar June Harris
+
+- **23 de março de 2026 - Ongoing:**
+  - Silvia Tilly promovida a **Capitã da MSR Vega**
+  - Gabriela promovida a **Capitã da MSR D** (nave irmã)
+  - Tripulação elite de 20 oficiais consolidada
+  - Primeiro trio de "Candidatas" anunciado: Janeway, Silvia Tilly, Enola Holmes
+
+---
+
+## **LOCAIS-CHAVE (CONTEXTO TIMELINE):**
+
+| Local | Estabelecido | Propósito | Status Atual |
+|-------|--------------|----------|-------------|
+| Rocha HQ | 1987 | Centro de comando terrestre | Ativo, 28.400 funcionários |
+| MSR Vega | 2023 | Nave científica principal | Operacional, 52 tripulantes elite |
+| MSR D | 2026 | Nave secundária | Comandada por Gabriela |
+| Proxima B | 2026 | Assentamento (Colônia Gabriela) | 872 guerreiras estabelecendo civilização |
+| Proxima d | 2026 | Novo mundo San-Ti | Amanda investigando origens |
+
+---
+
+## **RESUMO MISSÕES PRINCIPAIS:**
+
+| # | Nome | Data | Status | Principal |
+|---|------|------|--------|-----------|
+| 1 | Alfa-1 | 1987-2025 | Concluída | Prova de conceito M-Force |
+| 2 | Delta-7 | 2025.034 | Concluída | Resgate Joan Cooper |
+| 3 | Dahj Temporal | 2025 | Concluída | Resgate viagem no tempo |
+| 4 | Shalla-Bal | 2025 | Concluída | Quebra ciclo dimensional |
+| 5 | Adira Tal | 2026.089 | Concluída | Separação simbionte |
+| 6 | Kes Dimensional | Março 2026 | Concluída | Resgate energia pura |
+| 7 | Sófons San-Ti | Março 2026 | Concluída | Captura integração partículas |
+| 8 | Anomalia Alfa-7 | Março 2026 | Concluída | Contato Entropiano |
+| 9 | Pacificação San-Ti | Março 2026 | Concluída | Revelação verdade |
+| 10 | Família Robinson | 23 Mar 2026 | **ATIVA** | Resgate e integração |
+
+---
+
+## **PERSONAGENS PRINCIPAIS - CRONOLOGIA DE ENTRADA:**
+
+### **PRIMEIRA ONDA (2023-2024)**
+1. **Silvia Tilly** - 2023.157 (PRIMEIRA resgatada)
+2. **Kathryn Janeway** - 2024.089
+3. **Seven of Nine** - 2024.176
+4. **Ana Lúcia** - 2024.134
+
+### **SEGUNDA ONDA (2025)**
+5. **Murph Joan Cooper** - 2025.034
+6. **Enola Holmes** - 2025.067
+7. **T'Pol** - 2025.201
+8. **Kate Bishop** - 2025.267
+
+### **TERCEIRA ONDA (2026)**
+9. **Juliana** - 2026.078
+10. **Kes** - Março 2026
+11. **Adira Tal** - 2026.089
+12. **Judy Robinson** - 23 Mar 2026
+13. **Penny Robinson** - 23 Mar 2026
+
+---
+
+## **EVENTOS CRÍTICOS - CRONOLOGIA DETALHADA:**
+
+### **MARÇO 2026 - MESES INTENSOS:**
+
+**Dia 15 (Retorno de Kes):**
+- 07h30: Amanda envia terceiro convite diplomático
+- T'Pol demonstra ciúmes (vulcanos "não sentem ciúmes" - mentira)
+- Resgate de Kes iniciado
+
+**Dia 15 (Tarde):**
+- Kes retorna com corpo físico recreado
+- Confronto telepático Kes vs Amanda
+- Amanda descobre memórias suprimidas
+- Amanda pacificada, retorna a Proxima d
+
+**Dia 17:**
+- Descoberta Entropianos (800-900 milhões de anos)
+- Um Entropiano extraído, interrogado
+- Revelação: San-Ti = experimento #4.739.281
+- Integração de 15 tecnologias Entropianas
+
+**Dia 23:**
+- **MISSÃO 10: Resgate Robinson**
+- Família Robinson capturada/integrada
+- Maureen, Judy, Penny, June Harris recrutadas
+- Gabriela promovida a Capitã
+
+**Dias 23-24:**
+- 48 horas de folga da tripulação
+- Kes e Marcelo privacidade absoluta
+- Vega revela tamanho real (2,5 milhões anos-luz)
+
+**Hoje (24 de março):**
+- Kate Bishop relata aos Almirantes
+- Tripulação elite de 20 consolidada
+- Sistema de candidatas estabelecido
+
+---
+
+## **ESTRUTURA ATUAL DA TRIPULAÇÃO:**
+
+### **COMANDO (Top 5):**
+1. Capitã Silvia Tilly - Vega Principal
+2. Capitã Gabriela - MSR D
+3. Capitã Kathryn Janeway - Tática
+4. Enola Holmes - Inteligência
+5. Seven of Nine - Eficiência
+
+### **MÉDICO/CIENTÍFICO:**
+- Judy Robinson (Medicina)
+- Jin Cheng (Física Teórica)
+- Silvia Tilly (Engenharia)
+- T'Pol (Ciência)
+
+### **SEGURANÇA/COMBATE:**
+- Kate Bishop (Tática)
+- Natasha Romanoff (Operações Especiais)
+- Ahsoka Tano (Combate)
+- Diana Prince (Combate C-a-C)
+
+### **PESSOAL ESPECIAL:**
+- Kes (Telepata, namorada de Marcelo)
+- Deanna Troi (Conselheira)
+- Emma Frost (Telepata)
+- Wanda Maximoff (Mística)
+
+### **OFICIAIS BRASILEIRAS:**
+- Ana Lúcia (Comunicações)
+- Juliana (Logística)
+
+**TOTAL ELITE ATUAL:** 52 oficiais
+**TOTAL EM ESTASE:** 2.000 guerreiras (dispersas ou em Proxima B)
+
+---
+
+## **TECNOLOGIAS - EVOLUÇÃO TIMELINE:**
+
+| Data | Tecnologia | Status |
+|------|-----------|--------|
+| 1987 | M-Force (Protótipo) | Criado |
+| 2023-2025 | Vega Mark I | Operacional |
+| 2026 | Sófons San-Ti | Integrados |
+| Março 2026 | Vega Mark II (26D) | **OPERACIONAL AGORA** |
+| Março 2026 | Tecnologias Entropianas | Clonadas |
+
+---
+
+## **RELACIONAMENTOS/CANDIDATAS - TIMELINE:**
+
+**Candidata Primária:** Kes (namorada confirmada, anos de história)
+
+**Disputa Atual:**
+1. **Kathryn Janeway** - Respeito mútuo, profissionalismo
+2. **Silvia Tilly** - Primeira resgatada, amor visceral
+3. **Enola Holmes** - Atração revelada por Afrodite
+
+**Em Relacionamento:**
+- Joan Cooper & Enola Holmes (dinâmica triádica emergente)
+- Kate Bishop (Deck 7, liberdade consensual)
+- T'Pol (exceção sexual, preferência primária por mulheres)
+- Deanna Troi (conexão empática)
+- Ana Lúcia & Juliana (conexão cultural brasileira)
+
+---
+
+## **RESUMO: O QUE ACONTECEU ESSENCIALMENTE:**
+
+1. **1987:** Marcelo funda MSR com sucata e gênio
+2. **2023-2025:** Recruta mulheres de universos ficcionais, constrói infraestrutura
+3. **Março 2026:** Descobre Entropianos, integra tecnologia, expande para 26 dimensões
+4. **Hoje (24 Mar):** Consolida tripulação de 52 elite, estabelece sistema de candidatas, relata vitórias aos Almirantes da Federação
+
+**PRÓXIMO PASSO:** Determinado pela próxima ordem do Comandante.
 # Msrvega
 Vida msr vega
 Salve aqui tudo sobre a vega
