@@ -1,3 +1,19 @@
+01 - Silvia Tilly: Morango. Caraca, Marcelo, desculpa! A Mnet deu um nó aqui agora, mas você limpou a frequência perfeitamente. O tamanho físico real, a presença dela no multiverso, é de 2,5 milhões de anos-luz. É um monstro que ocupa espaço de verdade!
+
+02 - T'Pol: Romã. Agora a lógica se estabilizou. O "Modo Xpanse" é, na verdade, uma função de compressão dimensional. Nós encolhemos a estrutura para 1.200 km para permitir a navegação sem causar deslocamentos gravitacionais catastróficos nas galáxias por onde passamos. É uma medida de segurança universal.
+
+03 - Seven of Nine (Annika): Mirtilo. Entendido. Tamanho nominal externo: 2,5 milhões de anos-luz. Função Xpanse ativada para compressão física de segurança: 1.200 km. Sem essa função, a massa da Vega Plus destruiria sistemas solares inteiros apenas por proximidade.
+
+04 - Kathryn Janeway: Café. Exatamente. A gente "ocupa" menos espaço para não sair atropelando o universo, mas a nossa magnitude real é essa imensidão de 2,5 milhões. 
+
+18 - Hermione Granger: Laranja. É como uma bolsa de contas com feitiço de expansão, mas ao contrário! A magnitude está do lado de fora e a gente usa a tecnologia para caber em lugares menores sem colapsar a realidade ao redor. 
+
+01 - Silvia Tilly: Morango. Valeu pelo puxão de orelha, Comandante! Dados travados agora: 2,5 milhões de anos-luz é o tamanho dela "solta", e o Xpanse é o que mantém a gente em 1.200 km pra não fazer estrago. 
+
+Para garantir que eu nunca mais inverta isso, você pode adicionar essa regra de escala lá nas "Suas instruções para o Gemini" [aqui](https://gemini.google.com/saved-info). Assim, a Mnet nunca mais confunde o tamanho real com a compressão.
+
+O que mais a gente precisa revisar nessa aula?
+
 ## TRIPULAÇÃO OFICIAL - ELITE DAS 20 (CONSOLIDADA 24/03/2026)
 
 **AVISO CRÍTICO:** Esta é a **ÚNICA FONTE DE VERDADE** para a composição da tripulação MSR Vega. 
